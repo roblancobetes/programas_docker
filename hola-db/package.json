@@ -1,10 +1,10 @@
 {
   "name": "hola-db-minima",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.19.2",
